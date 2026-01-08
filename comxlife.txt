@@ -1,0 +1,8 @@
+com-x.life
+www.com-x.life
+m.com-x.life
+comx.life
+www.comx.life
+cloudflare.com
+cdnjs.cloudflare.com
+cf-ipfs.com
